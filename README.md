@@ -67,7 +67,7 @@ Cybersecurity analyst, Blue Team , Security Operations Analyst .
 - [mynameismama6zaa (GitHub)](https://github.com/mynameismama6zaa)
 - [Jcyber-protect (GitHub)](https://github.com/Jcyber-protect)
 - [FAtheme (GitHub)](https://github.com/FAtheme)
-- [AUX-441 (GitHub)](https://github.com/AUX-441) _(Project Lead)_
+- [lARGO-M (GitHub)](https://github.com/AUX-441) _(Project Lead)_
 
 We appreciate all testers, issue reporters, and those who help build a safer world.  
 Want to join? [See Contributing Guidelines](CONTRIBUTING.md)
@@ -175,7 +175,7 @@ Want to join? [See Contributing Guidelines](CONTRIBUTING.md)
 
 > 💡 **Fully modular:**  
 > Add or customize modules and scripts with ease.  
-> See [Wiki/Modules](https://github.com/AUX-441/SecuSploitX/wiki/Modules) for a full list!
+> See [Wiki/Modules](https://github.com/LARGO-M/SecuSploitX/wiki/Modules) for a full list!
 
 ---
 
@@ -191,7 +191,7 @@ SecuSploitX supports all major operating systems and runs on Python 3.13+.
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AUX-441/SecuSploitX.git
+git clone https://github.com/LARGO-M/SecuSploitX.git
 cd SecuSploitX
 ```
 #### 2. Install Python dependencies
@@ -227,7 +227,7 @@ pkg install python git
 #### 2. Clone SecuSploitX
 
 ```bash
-git clone https://github.com/AUX-441/SecuSploitX.git
+git clone https://github.com/LARGO-M/SecuSploitX.git
 cd SecuSploitX
 ```
 #### 3. Install dependencies
@@ -252,7 +252,7 @@ python main.py
 #### 2. Clone the repository
 
 ```powershell
-git clone https://github.com/AUX-441/SecuSploitX.git
+git clone https://github.com/largo-m/SecuSploitX.git
 cd SecuSploitX
 ```
 
@@ -371,7 +371,7 @@ python main.py
 2. Click "Deep Site Scanner"
 3. Enter target, configure, and export report
 
-> See [Wiki/Modules](https://github.com/AUX-441/SecuSploitX/wiki/Modules) for detailed usage of every module.
+> See [Wiki/Modules](https://github.com/largo-m/SecuSploitX/wiki/Modules) for detailed usage of every module.
 
 ---
 
@@ -418,7 +418,7 @@ Special thanks to:
 - [FAtheme](https://github.com/FAtheme) – Module Testing  
 - [AUX-441](https://github.com/AUX-441) – Project Lead
 
-And all contributors at [GitHub Contributors](https://github.com/AUX-441/SecuSploitX/graphs/contributors)
+And all contributors at [GitHub Contributors](https://github.com/largo-m/SecuSploitX/graphs/contributors)
 
 ---
 
@@ -438,7 +438,7 @@ No commercial use, copy, or redistribution without written consent.
 
 ## 📬 Contact & Community
 
-- [GitHub Discussions](https://github.com/AUX-441/SecuSploitX/discussions)
+- [GitHub Discussions](https://github.com/largo-m/SecuSploitX/discussions)
 - [Telegram Channel](https://t.me/SecuSploitX)
 - **Email for support, bug reports, and security issues:**  
   📧 **submindf@gmail.com**
