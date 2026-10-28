@@ -1,3 +1,8 @@
+> [!NOTE]
+> **This repository is a fork of [Largo-m/SecuSploitX](https://github.com/Largo-m/SecuSploitX).**
+> Releases, issues, documentation and pull requests live in the upstream repository; use it
+> unless you specifically need this copy. Refresh with `git fetch upstream && git merge upstream/main`.
+
 # SecuSploitX - Advanced Offensive Security & Penetration Testing Suite
 
 ![SecuSploitX Banner](assets/Sploit_logo.png)
